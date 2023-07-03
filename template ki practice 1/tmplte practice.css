@@ -1,0 +1,109 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  html,
+  body {
+    line-height: 1.4;
+    font-weight: 300;
+  
+  }
+  
+  .mainpart {
+    background-image: url(./Picsart_23-02-22_07-51-23-893.png);
+  
+  
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  
+  .textcantrol {
+    color: white;
+    max-width: 900px;
+    margin: 0 auto;
+    padding-top: 520px;
+    padding-left: 43px;
+    color: chartreuse;
+  
+  }
+  
+  .name {
+    font-size: 50px;
+  }
+  
+  .text {
+    font-size: 72px;
+    font-weight: 400;
+  
+  }
+  
+  .box {
+    background-color: #000;
+    padding: 20px;
+  }
+  
+  .box h2 {
+    font-size: 72px;
+    color: white;
+    text-align: center;
+    font-weight: 300;
+  }
+  
+  .black_box h2 span {
+    font-weight: 400;
+    font-size: 96px;
+  }
+  
+  .zimg {
+    height: 316%;
+    width: 100%;
+  }
+  
+  .main2 {
+    display: grid;
+    gap: 20px;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    height: 800px;
+    max-width: 1100px;
+    margin: 50px auto;
+  }
+  
+  .imgsa {
+    width: 100%;
+    height: 600px;
+  }
+  
+  .imgs {
+    width: 100%;
+    height: 600px;
+  }
+  
+  .all {
+    display: flex;
+    justify-content: center;
+  
+  }
+  
+  .cards {
+    max-width: 320px;
+    height: 850px;
+    border-radius: 10px;
+    box-shadow: 3px 5px 5px rgba(1, 1, 1, 0.2);
+  
+  }
+  
+  .card:hover {
+  
+    box-shadow: 3px 5px 5px rgba(1, 1, 1, 0.3);
+  
+  }
+  
+  .card {
+    padding: 20px;
+  }
+  
+  .card h3 {
+    margin-bottom: 10px;
+  }
