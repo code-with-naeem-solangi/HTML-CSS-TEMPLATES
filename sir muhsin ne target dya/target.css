@@ -1,0 +1,220 @@
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+.nav-control{
+    display: flex;
+     justify-content: space-between;
+     background-color: black;
+     height: 35px;
+     align-items: center;
+  
+    
+}
+
+.nav-items {
+    color: white;
+    padding: 14px 7px;
+   
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.nav-items a {
+    text-decoration: none;
+    padding: 15PX;
+    color: white;
+
+    padding: 10px 15px 9px;
+}
+
+.nav-items a:hover {
+    background-color: gainsboro;
+}
+
+.nav2 a {
+    padding: 10px 0px;
+    text-decoration: none;
+    padding: 9px;
+    color: white;
+    font-size: large;
+}
+
+.nav2 {
+    padding: 10px;
+    color: white;
+}
+.fa-search{
+   /* width: 100%; */
+ padding: 10px 0px 7px 10px ;   
+height: 100%;
+}
+.nav2 i:hover {
+    background-color: gainsboro;
+ 
+    width: 100%;
+    height: 100%;
+}
+.text-center{
+    text-align: center;
+    padding-top: 40px;
+    font-family: "Oswald";
+}
+.text-center button{
+    background-color: black;
+    color: white;
+    height: 28px;
+    margin-left: 4px;
+}
+.jumbo{
+    background-image: url(./top\ img.jpg);
+    height: 100vh;
+    background-size: cover;
+    margin-top: 50px;
+}
+.bg-text{
+    color: white;
+   padding-top: 300px;
+   font-size: 35px;
+   padding-left: 25px;
+   line-height: 30px;
+}
+.bg-text button{
+    background-color: #fff;
+    opacity: 40%;
+    height: 60px;
+    width: 130px;
+    margin-top: 40px;
+
+}
+h6{
+    margin-top: -60px;
+}
+.second_section_chaid_1{
+    background-color: aqua;
+    width: 800px;
+    margin: 15px;
+   padding-bottom: 13px;
+}
+.img-1{
+   padding-left: 15px;
+   width: 768px;
+}
+.div_button_control{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.buton-two{
+    background-color: black;
+    color: white;
+    margin-right: 10px;
+    width: 110px;
+    height: 30px;
+    border: 1px;
+    
+}
+.buton-two span{
+    background-color: rgb(253, 24, 24);
+    color: black;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+.buton-two:hover{
+    background-color: gray;
+    
+}
+.buton-one{
+    color: black;
+    margin-left: 10px;
+    background-color: aqua;
+    border: 1px;
+    width: 60px;
+    height: 30px;
+}
+.buton-one:hover{
+    background-color: black;
+    color: white;
+}
+.second_section_pairant{
+    display: flex;
+    justify-content: space-evenly;
+}
+.second_section_chaid_two_tow{
+    background-color: aqua;
+    padding-bottom: 10px;
+}
+.same-clas{
+    display: flex;
+    height: 80px;
+    /* border-bottom: 1px solid; */
+}
+.same-clas-img{
+    height: 70px;
+    margin: 10px 10px 6px 10px;
+}
+.same-clas-img-2{
+    height: 70px;
+    margin: 10px 10px 6px 10px;
+    width: 70px;
+}
+.same-clas:hover{
+    background-color: gray;
+    color: white;
+
+}
+.thard_section_chaid_1{
+    background-color: aqua;
+    width: 800px;
+    margin: 15px;
+   padding-bottom: 13px;
+}
+.thard_section_pairant{
+    display: flex;
+    justify-content: space-evenly;
+}
+button{
+    padding-left: 4px;
+    padding-right: 8px;
+    font-size: 13px;
+    border: 1px;
+margin-bottom: 9px;
+}
+p{
+    background-color: aqua;
+    padding: 10px 1px 1px 8px;
+}
+i:hover{
+    color: blue;
+}
+.fourth_section_chaid_1{
+    background-color: aqua;
+    width: 800px;
+    margin-left: 57px;
+   padding-bottom: 13px;
+}
+.last-part{
+    background-color: aqua;
+    margin-top: 50px;
+    height: 180px;
+}
+.last-button{
+    background-color: black;
+    color: white;
+    border: 1px;
+    margin-left: 50px;
+    margin-top: 50px;
+    width: 130px;
+    height: 50px;
+}
+.last-button:hover{
+    background-color: gray;
+    color: black;
+}
+.last-p{
+    padding-left: 50px;
+    margin-top: -10px;
+    
+}
